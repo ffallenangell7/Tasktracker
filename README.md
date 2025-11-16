@@ -41,5 +41,5 @@ A modern, interactive, and feature-rich command-line task management application
 
 ### Step 1: Clone or Download
 ```bash
-git clone https://github.com/yourusername/daily-task-tracker.git
+git clone https://github.com/ffallenangell7/Tasktracker.git
 cd daily-task-tracker
