@@ -49,7 +49,7 @@ pip (Python package manager)
 
 Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/daily-task-tracker.git
+git clone https://github.com/ffallenangell7/Tasktracker
 cd daily-task-tracker
 Step 2: Install Required Packages
 bash
